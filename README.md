@@ -1,5 +1,8 @@
-# Title
 
-## Sub-Title
+# Notes
 
-Nothing to see here.
+## To run site locally at http://localhost:4000
+
+Within site directory:
+
+    bundle exec jekyll serve
